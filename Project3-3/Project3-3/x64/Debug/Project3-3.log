@@ -1,0 +1,5 @@
+﻿  mytemperature.cpp
+  mytemperature.h
+  正在生成代码...
+x64\Debug\mytemperature.obj : warning LNK4042: 对象被多次指定；已忽略多余的指定
+  Project3-3.vcxproj -> C:\Users\张佳佳\source\repos\Project3-3\x64\Debug\Project3-3.exe
