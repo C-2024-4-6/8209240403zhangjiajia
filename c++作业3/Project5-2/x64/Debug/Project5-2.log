@@ -1,0 +1,4 @@
+﻿  main.cpp
+  student.cpp
+C:\Users\张佳佳\source\repos\Project5-2\Project5-2\student.cpp(14,10): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  正在生成代码...
